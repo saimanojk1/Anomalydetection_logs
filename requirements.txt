@@ -1,0 +1,1 @@
+pyspark, sparknlp, pandas, scipy, matplotlib, seaborn
